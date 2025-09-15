@@ -15,6 +15,6 @@ https://livetv.izbds.com/tv/iptv4.txt
 # 中国
 https://iptv-org.github.io/iptv/languages/zho.m3u
 # 动漫
-https://iptv-org.github.io/iptv/categories/animation.m3u
+# https://iptv-org.github.io/iptv/categories/animation.m3u
 # 电影
-https://iptv-org.github.io/iptv/categories/movies.m3u
+# https://iptv-org.github.io/iptv/categories/movies.m3u
