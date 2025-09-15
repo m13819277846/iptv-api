@@ -8,13 +8,4 @@ https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
 https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 
-# vbskycn/iptv项目
-https://livetv.izbds.com/tv/iptv4.txt
 
-# iptv-org/iptv项目
-# 中国
-# https://iptv-org.github.io/iptv/languages/zho.m3u
-# 动漫
-# https://iptv-org.github.io/iptv/categories/animation.m3u
-# 电影
-# https://iptv-org.github.io/iptv/categories/movies.m3u
